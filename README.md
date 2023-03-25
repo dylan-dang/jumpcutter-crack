@@ -4,7 +4,7 @@ Jumpcutter-crack is a Windows CLI tool to automatically download, install, and c
 
 ## Installation and Usage
 
-To start off, you should already have [NodeJS](https://nodejs.org) installed. Then, download the dependencies using your package manager of choice. An example of how to do so is shown below using [pnpm](https://pnpm.io), but you may subsitute any instance of `pnpm` with `npm` to get to achieve the same results.
+To start off, you should already have [NodeJS](https://nodejs.org) installed. Then, download the dependencies using your package manager of choice. An example of how to do so is shown below using [pnpm](https://pnpm.io), but you may subsitute any instance of `pnpm` with `npm` to achieve the same results.
 
 ```bash
 pnpm i
