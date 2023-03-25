@@ -1,5 +1,5 @@
 {
-    "name": "jc-crack",
+    "name": "jumpcutter-crack",
     "version": "1.0.0",
     "description": "a Windows CLI tool to automatically download, install, and crack the latest version of JumpCutter",
     "main": "index.js",
