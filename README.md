@@ -16,7 +16,7 @@ Next, start the script by running
 pnpm start
 ```
 
-If you already have JumpCutter installed, jumpcutter-crack will detect and crack your current installation. However, be sure that JumpCutter is on the latest version, or else the crack will be overwritten by the updater on the next launch. jumpcutter-crack can also download and install the latest version JumpCutter automatically for you. You also have the option of using a locally downloaded version of the setup executable as long as it is in the same directory.
+If you already have JumpCutter installed, jumpcutter-crack will detect and crack your current installation. However, be sure that JumpCutter is on the latest version, or else the crack will be overwritten by the JumpCutter updater on the next launch. Jumpcutter-crack can also download and install the latest version JumpCutter automatically for you. You also have the option of using a locally downloaded version of the setup executable as long as it is in the same directory.
 
 ## Afterword
 
