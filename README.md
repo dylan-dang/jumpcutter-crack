@@ -20,7 +20,7 @@ If you already have JumpCutter installed, jumpcutter-crack will detect and crack
 
 ## Afterword
 
-After every JumpCutter update, jumpcutter-crack will be overwritten and will have to be reinstalled. jumpcutter-crack will not be guaranteed to work for future versions to JumpCutter as updates roll out, as JumpCutter is early in its beta. As such, jumpcutter-crack is meant to be used for educational purposes only. To avoid these hassles, the best way to experience JumpCutter is through an official [JumpCutter subscription](https://jumpcutter.com/pricing), which also provides a gracious 2 week free trial.
+After every JumpCutter update, jumpcutter-crack will be overwritten and will have to be reinstalled. Jumpcutter-crack will not be guaranteed to work for future versions to JumpCutter as updates roll out, as JumpCutter is early in its beta. As such, jumpcutter-crack is meant to be used for educational purposes only. To avoid these hassles, the best way to experience JumpCutter is through an official [JumpCutter subscription](https://jumpcutter.com/pricing), which also provides a gracious 2 week free trial.
 
 ## License
 
